@@ -7,7 +7,7 @@
   	<plugins>
   		<plugin>
   			<groupId>org.apache.maven.plugins</groupId>
-  			<artifactId>mavne-install-plugin</artifactId>
+  			<artifactId>maven-install-plugin</artifactId>
   			<version>2.4</version>
   			<configuration>
   				<groupId>com.amdocs</groupId>
